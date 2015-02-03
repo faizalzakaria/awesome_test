@@ -3,6 +3,6 @@ awesome_test
 
 Cross Browser Test App
 
-I hate GUI, I just want to code.
+Not a fan of GUI heavy app, I would prefer CMD.
 
 SIDE PROJECT. @WIP.
